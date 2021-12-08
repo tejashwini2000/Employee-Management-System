@@ -1,0 +1,7 @@
+Employee ID:12345
+Employee Name     :tejashwini
+Father's Name     :Ravi
+Employee Contact  :789076543
+Email Information :math@gmail.com
+Employee position :manager
+Employee Salary   :100000
